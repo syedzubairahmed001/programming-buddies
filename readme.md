@@ -1,6 +1,6 @@
 # ProgrammingBuddies
 by Team Nexon - 
-Get the App [here](https://drive.google.com/file/d/1Hgxsd0EC9_P6nOvI0_IaP3aZmAM6_YDS/view)
+Get the App [here](https://drive.google.com/drive/folders/1Q1NQW_zPR40S-gN5Z5H_LtQ_Abqfd63f?usp=sharing)
 
 ## Code base URLs:
 - [Mobile App (Kotlin)](https://github.com/syedzubairahmed001/programmingbuddies-kotlin-app)
